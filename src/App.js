@@ -1,7 +1,7 @@
-// import logo from './logo.svg';
+
 import React from "react";
 import './App.css';
-import DemandNew from "./Modules/Demand/demandNew";
+import DemandNew from "./Modules/Demand/DemandNew";
 
 
 
